@@ -1,4 +1,7 @@
 ### Hola soy Maxi 👋
+Actualmente estoy trabajando como Desarrollador PL/SQL en el area de gobierno de datos.
+Tengo 4 años de experiencia en areas It ,mis primeros dos años fueron como Soporte Data Warehouse para una empresa de telecomunicaciones , luego estuve 1 año trabajando como Desarrollador ETL para una entidad bancaria y actualmente estoy como desarrollador PL/SQL para un organismo del gobierno. 
+Continuo aprendiendo y capacitandome para poder ser Ingeniero de datos .
 
 <!--
 **Maxi-Nu/Maxi-Nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
