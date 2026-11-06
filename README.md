@@ -1,7 +1,5 @@
 ### Hola soy Maxi 👋
-Actualmente estoy trabajando como Database developer en Mercadolibre.
-Tengo 5 años de experiencia en areas It ,mis primeros 2 años fueron como Soporte Data Warehouse para una empresa de telecomunicaciones , 1 año trabajando como Desarrollador ETL para una entidad bancaria y luego estuve 2 años como desarrollador PL/SQL para un organismo del gobierno. 
-
+Actualmente estoy trabajando como data engineer en Mercadolibre.
 
 <!--
 **Maxi-Nu/Maxi-Nu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
